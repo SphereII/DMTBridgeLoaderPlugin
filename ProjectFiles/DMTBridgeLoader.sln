@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTBridgeLoaderPlugin", "7D2DModLoader\DMTBridgeLoaderPlugin.csproj", "{43D9CC3E-D3E4-4005-8D94-A70A86CD8185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D9CC3E-D3E4-4005-8D94-A70A86CD8185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D9CC3E-D3E4-4005-8D94-A70A86CD8185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D9CC3E-D3E4-4005-8D94-A70A86CD8185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D9CC3E-D3E4-4005-8D94-A70A86CD8185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A236C13-04E4-4805-944D-21B5103C7B2A}
+	EndGlobalSection
+EndGlobal

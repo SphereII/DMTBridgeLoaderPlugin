@@ -1,0 +1,17 @@
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\DMTBridgeLoader.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\DMTBridgeLoader.pdb
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\BepInEx.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\DMT.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\UnityEngine.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\0Harmony.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\MonoMod.Utils.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\0Harmony.xml
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\MonoMod.Utils.xml
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\obj\Debug\DMTBridgeLoaderPlugin.csprojAssemblyReference.cache
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\obj\Debug\DMTBridgeLoaderPlugin.csproj.CoreCompileInputs.cache
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\obj\Debug\DMTBridgeLoaderPlugin.csproj.CopyComplete
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\obj\Debug\DMTBridgeLoader.dll
+C:\Users\kilpa\Documents\BepInEx\7DaysToDie\7D2DModLoader\7D2DModLoader\obj\Debug\DMTBridgeLoader.pdb
