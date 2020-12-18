@@ -11,7 +11,21 @@
 # EDIT THIS: The name of the executable to run
 # LINUX: This is the name of the Unity game executable 
 # MACOS: This is the name of the game app folder, including the .app suffix
-executable_name="7DaysToDie.x86_64"
+os_type=`uname -s`
+case $os_type in
+    Linux*)
+		executable_name="7DaysToDie.x86_64"
+        ;;
+    Darwin*)
+		executable_name="7DaysToDie.app"
+        ;;
+    *)
+        echo "Cannot identify OS (got $(uname -s))!"
+        echo "Please create an issue at https://github.com/BepInEx/BepInEx/issues."
+        exit 1
+        ;;
+esac
+
 
 # The rest is automatically handled by BepInEx
 
