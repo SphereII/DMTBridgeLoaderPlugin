@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="0-DMTBridgeLoaderPlugin" />
+    <Description value="BepInEx Loader" />
+    <Author value="sphereii" />
+    <Version value="1.0.0.0" compat="A19e" />
+    <Website value="" />
+  </ModInfo>
+  <DMT Hash="9f3a18ca8fd1ffd2cc4b3e94f0da4cd7">
+    <dependencies />
+    <conflicts />
+  </DMT>
+</xml>
